@@ -1,0 +1,50 @@
+h1 {font-family: Times, Georgia, serif; font-size: 24px; text-align: center; color: SteelBlue;}
+h2 {font-family: Times, Georgia, serif; font-size: 20px; text-align: left; color: DodgerBlue;}
+h3 {font-family: Times, Georgia, serif; font-size: 15px; text-align: left; color: Navy;}
+
+ul{
+	list-style-position: inside;
+	text-align: center;
+	color: dodgerblue;
+}
+
+ul1{
+	list-style-position: inside;
+	text-align: center;
+	color: LightSeaGreen;
+}
+
+.seccion1
+#welcome{
+	font-size: 34px;
+	color: orange;
+}
+.seccion1{
+	font-size: 34px;
+	text-align: right;
+	color: orange;
+}
+
+p.seccion2{
+	font-size: 34px;
+	text-align: left;
+	color: red;
+}
+
+.sec1{
+	font-size: 20px;
+	text-align: justify;
+	color: Navy;
+}
+
+.sec2{
+	font-size: 20px;
+	text-align: left;
+	color: LightSeaGreen;
+}
+
+.sec3{
+	font-size: 20px;
+	text-align: left;
+	color: SteelBlue;
+}
